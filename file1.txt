@@ -1,1 +1,2 @@
 welcome to git and github training 
+java is a OOP language
